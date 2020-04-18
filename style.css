@@ -1,9 +1,94 @@
 img {
-    width: 30%;
+    width: 27%;
+    margin-top: -25px;
 }
+
+
 .right {
     float: right;
+    margin-top: -566px;
+    padding-left: 7%;
+    background: linen;
+    margin-left: 360px;
+    height: 524px;
 }
 .clearfix {
     clear: both;
   }
+  h2 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 19px;
+    background-color: silver;
+    color: mintcream;
+    font-weight: 900;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h3{
+    color:mintcream ;
+}
+p {
+    background-color: navy;
+    padding-top: 23px;
+    margin-top: 0px;
+    color: white;
+    padding-left: 24px;
+    padding-bottom: 22px;
+    margin-right: 73%;
+}
+div {
+    padding-inline-end: 56px;
+    padding: 5px;
+}
+    .summary {
+        padding: 3px;
+    }
+    .about {
+        font-family: cursive;
+        font-size: larger;
+    }
+    div.all {
+        text-align: center;
+        background-color: silver;
+        margin: auto;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -42px;
+    }
+    input.name {
+        display: block;
+        margin-bottom: 25px;
+        width: 35%;
+        padding: 17px;
+        margin-left: 32%;
+        border-radius: 32px;
+    }
+    input.email {display: block;
+        margin-bottom: 25px;
+        width: 35%;
+        padding: 17px;
+        margin-left: 32%;
+        border-radius: 32px;
+    }
+    textarea {
+        display: block;
+        margin-bottom: 25px;
+        width: 35%;
+        padding: 17px;
+        margin-left: 32%;
+        border-radius: 32px;
+    }
+    input.submit {
+        width: 35%;
+        height: 45px;
+        border: navy;
+        background-color: navy;
+        color: white;
+        padding: 17px;
+        margin-left: -1%;
+        border-radius: 32px;
+    }
+    h3.summary {
+        color: black;
+    }
